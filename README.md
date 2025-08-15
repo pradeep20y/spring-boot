@@ -1,2 +1,1 @@
-# spring-boot
-spring boot practice project
+E-Commerce backend
